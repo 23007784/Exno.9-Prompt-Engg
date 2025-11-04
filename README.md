@@ -172,7 +172,8 @@ Understanding and experimenting with prompt engineering helps creators harness A
 ## prompt:
 ### A dog running in a park
 ### output:
-<video controls src="invideo-ai-480 10 Seconds of Dog Zoomies! 2025-11-04.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/720d66e3-65fc-49cb-a414-aee186f107d7
 
 # Result: 
 The Prompt of the above task executed successfully
